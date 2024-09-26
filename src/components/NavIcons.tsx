@@ -52,6 +52,7 @@ const NavIcons = () => {
         className="cursor-pointer"
         onClick={() => setIsCartOpen((prev) => !prev)}
       />
+      {isCartOpen && <div></div>}
     </div>
   );
 };
