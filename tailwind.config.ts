@@ -16,6 +16,9 @@ const config: Config = {
       boxShadow: {
         "custom-shadow": "0 3px 10px rgba(0, 0, 0, 0.2)",
       },
+      colors: {
+        lama: "#F35C7A",
+      },
     },
   },
   plugins: [],
