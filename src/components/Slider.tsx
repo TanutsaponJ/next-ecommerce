@@ -13,7 +13,7 @@ const slides = [
 
     description: "Sale! Up to 50% off!",
 
-    img: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://snowinsummers.com/cdn/shop/files/0107117814.jpg?v=1727653425&width=800",
 
     url: "/",
 
@@ -27,7 +27,7 @@ const slides = [
 
     description: "Sale! Up to 50% off!",
 
-    img: "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://snowinsummers.com/cdn/shop/files/Olive_1.jpg?v=1721872478&width=800",
 
     url: "/",
 
@@ -41,7 +41,7 @@ const slides = [
 
     description: "Sale! Up to 50% off!",
 
-    img: "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://snowinsummers.com/cdn/shop/files/Beige1.jpg?v=1721869920&width=800",
 
     url: "/",
 
